@@ -7,9 +7,3 @@ function updateDateTime() {
 }
 setInterval(updateDateTime, 1000);
 updateDateTime();
-
-// Login Popup
-document.getElementById("loginForm").onsubmit = function (e) {
-    e.preventDefault();   // stop page refresh
-    alert("Login Successful!");
-};
