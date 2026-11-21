@@ -60,47 +60,6 @@ News-Portal/
 └── README.md
 ```
 
-## 📸 Screenshots
-
-### Homepage
-
-Add a screenshot of your homepage here.
-
-```markdown
-![News Portal Homepage](./screenshots/homepage.png)
-```
-
-### Other Pages
-
-You can also add screenshots of:
-- About Page
-- Category Page
-- Author Page
-- Contact Page
-- Reporter Login Page
-
-## 🚀 Getting Started
-
-Follow these steps to run the project on your computer.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/foujia00/News-Portal.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd News-Portal
-```
-
-### 3. Open the website
-
-Open `index.html` in your browser.
-
-You can also use the Live Server extension in Visual Studio Code.
-
 ## 🔮 Future Improvements
 
 - Integrate a dynamic news API.
